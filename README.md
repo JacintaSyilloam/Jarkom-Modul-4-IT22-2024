@@ -1,4 +1,8 @@
 # Jarkom-Modul-4-IT22-2024
+|Nama  | NRP |
+|--|--|
+| Jacinta Syilloam | 5027221036 |
+
 - VLSM: GNS3
 - CIDR: CPT
 
