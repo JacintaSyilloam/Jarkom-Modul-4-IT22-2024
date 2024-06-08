@@ -682,7 +682,7 @@ Ping from each node to all node: [https://youtu.be/m1WV8f6igF8](https://youtu.be
 # CIDR Topology @ CPT
 ![labelled cpt](https://github.com/JacintaSyilloam/Jarkom-Modul-4-IT22-2024/assets/121095246/9a0b9ebf-0e5a-4f96-830c-520b76839e91)
 
-
+## Subnet 
 | Subnet | Network ID       | Netmask         | Broadcast        | IP Range                         |
 |--------|------------------|-----------------|------------------|----------------------------------|
 | A1     | 192.246.0.0      | 255.255.248.0   | 192.246.7.255    | 192.246.0.1 - 192.246.7.254      |
